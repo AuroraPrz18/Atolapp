@@ -3,8 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Aurora/AndroidStudioProjects/Atolapp/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/Aurora/AndroidStudioProjects/Atolapp/app/src/main/res/layout/activity_main.xml" value="0.34293193717277487" />
         <entry key="..\:/Users/Aurora/AndroidStudioProjects/Atolapp/app/src/main/res/layout/activity_recipes.xml" value="0.33" />
+        <entry key="..\:/Users/Aurora/AndroidStudioProjects/Atolapp/app/src/main/res/layout/contact_item.xml" value="0.5" />
         <entry key="..\:/Users/Aurora/AndroidStudioProjects/Atolapp/app/src/main/res/layout/contacts_fragment.xml" value="0.25" />
         <entry key="..\:/Users/Aurora/AndroidStudioProjects/Atolapp/app/src/main/res/layout/new_recipe_fragment.xml" value="0.1" />
         <entry key="..\:/Users/Aurora/AndroidStudioProjects/Atolapp/app/src/main/res/layout/recipes_fragment.xml" value="0.1" />
